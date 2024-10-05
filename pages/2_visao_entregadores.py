@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 import PIL.Image as imgpil
 import plotly.express as px
-from haversine import haversine
+import haversine
 import plotly.graph_objects as go
 from streamlit_folium import folium_static
 
