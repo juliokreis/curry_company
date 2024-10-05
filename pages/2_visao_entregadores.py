@@ -1,5 +1,5 @@
 # Libraries
-import folium as fl
+import folium
 import pandas as pd
 import streamlit as st
 import PIL.Image as imgpil
