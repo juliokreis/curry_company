@@ -7,4 +7,4 @@ plotly-express==0.4.1
 python-dateutil==2.9.0.post0
 streamlit==1.39.0
 streamlit_folium==0.23.0
-
+opencv==4.10.0
