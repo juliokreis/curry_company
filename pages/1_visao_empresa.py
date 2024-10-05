@@ -1,5 +1,5 @@
 # Libraries
-from haversine import haversine
+import haversine
 import plotly.express as px
 import plotly.graph_objects as go
 
